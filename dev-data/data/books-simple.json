@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "The Forest Hiker",
+    "likes": 15,
+    "imageCover": "book-1-cover.jpg"
+  },
+  {
+    "id": 1,
+    "name": "The Sea Explorer",
+    "likes": 5,
+    "imageCover": "book-2-cover.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Snow Adventurer",
+    "likes": 47,
+    "imageCover": "book-3-cover.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The City Wanderer",
+    "likes": 7,
+    "imageCover": "book-4-cover.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Park Camper",
+    "likes": 78,
+    "imageCover": "book-5-cover.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Sports Lover",
+    "likes": 12,
+    "imageCover": "book-6-cover.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Wine Taster",
+    "likes": 0,
+    "imageCover": "book-7-cover.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Star Gazer",
+    "likes": 50,
+    "imageCover": "book-8-cover.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Northern Lights",
+    "likes": 2,
+    "imageCover": "book-9-cover.jpg"
+  }
+]
